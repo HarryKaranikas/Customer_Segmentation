@@ -13,7 +13,7 @@ We planning using two models:
 1) A more traditional statistic model
 2) A machine learning algorithm know as K-means clustering
 
-All the code is writting in Python3
+##All the code is writting in a Jupyter Notebook (Python 3.x)
 
 Many visualiazitions are have been mayde using Tableau 
 Link -> https://public.tableau.com/profile/harry6871#!/vizhome/efood/Dashboard1****
