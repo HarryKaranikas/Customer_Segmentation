@@ -1,0 +1,8 @@
+Jupyter Notebook
+Python 3
+sklearn
+numpy
+matplotlib
+seaborn
+datetime
+matplotlib.dates
