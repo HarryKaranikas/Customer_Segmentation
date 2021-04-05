@@ -1,14 +1,16 @@
 #Instructions to Run the Notebook
 
-1.Open the queries file 
+1.Download the notebook
 
-2.Run the querie named -> bq-results.sql
+2.Open the queries file in the repo
 
-3.Download the results in the same folder with your Notebook
+3.Run the querie named -> bq-results.sql in your BigQuery
 
-4.Named the download file as "bq-results.csv"
+4.Download the results in the same folder with your Notebook
 
-5.Download the neccerary libraries from the requirement file
+5.Named the download file as "bq-results.csv"
 
-6.Run sucefully the Customer Segmentation .ipynb Notebook
+6.Download the neccerary libraries from the requirement file
+
+7.Run sucefully the Customer Segmentation .ipynb Notebook
 
