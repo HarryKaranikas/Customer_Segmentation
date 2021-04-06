@@ -16,6 +16,5 @@ We planning using two models:
 All the code is writting in a Jupyter Notebook (Python 3.x)
 
 Many visualiazitions are have been mayde using Tableau 
-Link -> https://public.tableau.com/profile/harry6871#!/
-
+Link -> https://public.tableau.com/profile/harry6871#!/vizhome/OnlineFoodDeliveryPlatform_/Dashboard1?publish=yes
 ****
